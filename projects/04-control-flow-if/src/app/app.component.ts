@@ -32,9 +32,9 @@ import { AccountInfo } from './account-info';
 })
 export class AppComponent {
   account: AccountInfo = {
-    name: 'Melisa Evan',
-    membershipStatus: 'platinum',
-    validThru: '12/2022',
+    name: 'Masai Kipkorir',
+    membershipStatus: 'gold',
+    validThru: '12/2027',
     CVV: '123',
   };
 }
